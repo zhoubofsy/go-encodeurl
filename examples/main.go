@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/QuentinPerez/go-encodeUrl"
 	"github.com/Sirupsen/logrus"
+	"liyongcool.nat300.top/bozhou/go-encodeurl"
 )
 
 type ID struct {
